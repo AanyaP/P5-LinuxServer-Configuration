@@ -17,7 +17,9 @@ Instructions:
 
 
 Passphrase for grader is set to be: DarthVader
+
 password for grader is set to be: DarthVader
+
 All the rest passwords are set to be: grader
 
 Installed packages:
@@ -90,3 +92,5 @@ References:
 www.google.com
 
 ⦁	www.github.com
+
+https://discussions.udacity.com/t/project-5-resources/28343
