@@ -4,7 +4,7 @@ Linux Server Configuration
 
 A baseline installation of a Linux distribution on a virtual machine and prepared it to host web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
 
-Public IP address:  52.40.147.223
+Public IP address:  52.38.161.182
 
 SSH port: 2200
 
