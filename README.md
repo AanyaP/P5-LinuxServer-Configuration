@@ -12,7 +12,13 @@ Application URL: http:// 52.38.161.182/
 
 Amazon EC2 Instance's public URL: http://ec2-52-38-161-182.us-west-2.compute.amazonaws.com/
 
-Instructions: All the passwords and passphrase for grader is set to be: DarthVader
+Instructions: 
+-----------------------------------------------------------------------
+
+
+Passphrase for grader is set to be: DarthVader
+password for grader is set to be: DarthVader
+All the rest passwords are set to be: grader
 
 Installed packages:
 -----------------------------------------------------------------------
