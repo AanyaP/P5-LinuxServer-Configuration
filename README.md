@@ -1,4 +1,4 @@
-# P5-LinuxServer-Configuration
+# LinuxServer-Configuration
 Linux Server Configuration
 -----------------------------------------------------------------------
 
