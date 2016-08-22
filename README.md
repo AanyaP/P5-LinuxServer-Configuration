@@ -8,10 +8,13 @@ Public IP address:  52.38.161.182
 
 SSH port: 2200
 
+## These URL no Longer work as my subscription for the AWS instance has ended
+
 Application URL: http:// 52.38.161.182/
 
 Amazon EC2 Instance's public URL: http://ec2-52-38-161-182.us-west-2.compute.amazonaws.com/
-*** This URL no Longer works as my subscription for the instance has ended ***
+
+
 
 Instructions: 
 -----------------------------------------------------------------------
